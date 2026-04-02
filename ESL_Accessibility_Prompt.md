@@ -1,1 +1,0 @@
-Act as a Language Accessibility Expert. Take the following technical documentation and rewrite it for a person who speaks English as a second language. Use CEFR Level B1 vocabulary, short sentences, and bullet points to ensure the impact of the technology is clear.
