@@ -6,6 +6,6 @@ Use CEFR Level B1 vocabulary.
 
 Replace all jargon with simple definitions.
 
-Structure the output into 'Action Items' and 'Important Deadlines.'
+Structure the output into 'Action Items' and 'Important Deadlines.
 
-Ensure the tone is empathetic but highly direct to avoid confusion."
+Ensure the tone is empathetic but highly direct to avoid confusion.
